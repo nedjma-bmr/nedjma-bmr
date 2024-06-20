@@ -1,7 +1,7 @@
-[![MasterHead](https://cdn.vectorstock.com/i/500p/23/07/web-blue-banner-software-ui-and-development-vector-42172307.jpg)]
+[![MasterHead](https://www.asmiglobalsoftwares.com/assets/img/Web-development.jpg)]
 <h1 align="center">Hi 👋, I'm Nedjma Bouamara</h1>
 <h3 align="center">A passionate full stack developer</h3>
-<img  align="right" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif" alt="coding">
+<img  align="right" width="200" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nedjma-bmr&label=Profile%20views&color=0e75b6&style=flat" alt="nedjma-bmr" /> </p>
 
 - 🔭 I’m currently working on **E-OBP**
